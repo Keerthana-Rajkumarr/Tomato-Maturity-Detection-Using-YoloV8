@@ -6,7 +6,8 @@
 # Dataset Description
   Total Tomato Images: 804 imgaes
 
-  # Class  b -> big  l -> little
+# Class 
+b -> big  l -> little
   - b_fully_ripened
   - b_half_ripened
   - b_green
