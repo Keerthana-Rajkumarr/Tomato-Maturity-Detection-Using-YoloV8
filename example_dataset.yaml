@@ -1,0 +1,11 @@
+names:
+  - b_fully_ripened
+  - b_half_ripened
+  - b_green
+  - l_fully_ripened
+  - l_half_ripened
+  - l_green
+nc: 6
+path: /content/drive/MyDrive/Tomato/archive
+train: /content/drive/MyDrive/Tomato/archive/train/images
+val: /content/drive/MyDrive/Tomato/archive/val/images
